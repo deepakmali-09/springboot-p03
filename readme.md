@@ -13,7 +13,7 @@ This project implements a simple payment system using **ApplicationContext** and
 - **Maven**: Build automation tool.  
 
 ## **How It Works**  
-1. Users make an online purchase and select their preferred payment provider (e.g., PayPal, Stripe, etc.).  
+1. Users make an online purchase and select their preferred payment provider (e.g., Paytm, RozerPay, etc.).  
 2. The application retrieves the corresponding payment provider bean using `ApplicationContext`.  
 3. The selected provider processes the payment and displays its name on the console.  
 
